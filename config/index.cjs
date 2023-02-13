@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxedc0cf172b191b73',
+  APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '21c043236583b9c6f08b85a746cbe9b5',
+  APP_SECRET: '',
 
   PROVINCE: '湖南',
   CITY: '长沙',
@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '小朋友',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'onfsI6LuvNwbkGua-gFmu-JtrqVY',
+      id: 'onfsI6LzSrOeY_H24rpclFnSn4Jo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'sOM-Xswa_yeXY7U8HrvE1wciQNfPvKjjqzeyqycQOdA',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
